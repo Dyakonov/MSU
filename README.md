@@ -8,4 +8,4 @@
 * https://www.kaggle.com/ogrellier/python-target-encoding-for-categorical-features#
 * https://www.kaggle.com/vprokopev/mean-likelihood-encodings-a-comprehensive-study#
 * https://github.com/DenisVorotyntsev/CategoricalEncodingBenchmark
-
+*  Дьяконов А.Г. [Методы решения задач классификации с категориальными признаками](https://istina.msu.ru/download/9065306/1iEWo3:1Ms-LUCOUScMLKN_B5hxIE-38tE/) // Прикладная математика и информатика. Труды факультета Вычислительной математики и кибернетики МГУ имени М.В. Ломоносова 2014, № 46, с. 103-127.
