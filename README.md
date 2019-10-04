@@ -18,3 +18,4 @@
 сделать обзор существующих методов / предложить быстрые (не обязательно для настройки ML-алгоритмов)
 * Байесовский подход: [отсюда](https://github.com/WillKoehrsen/hyperparameter-optimization/blob/master/Introduction%20to%20Bayesian%20Optimization%20with%20Hyperopt.ipynb) ходить по ссылкам
 * много современных исследований: https://sigopt.com/research
+* хорошая обзорная работа https://app.sigopt.com/static/pdf/SigOpt_Bayesian_Optimization_Primer.pdf
