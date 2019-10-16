@@ -19,3 +19,8 @@
 * Байесовский подход: [отсюда](https://github.com/WillKoehrsen/hyperparameter-optimization/blob/master/Introduction%20to%20Bayesian%20Optimization%20with%20Hyperopt.ipynb) ходить по ссылкам
 * много современных исследований: https://sigopt.com/research
 * хорошая обзорная работа https://app.sigopt.com/static/pdf/SigOpt_Bayesian_Optimization_Primer.pdf
+
+### генерация графов
+
+предложить новые подходы, сделать эксперименты
+* Есть хороший обзор:  https://arxiv.org/pdf/1910.00760v1.pdf
