@@ -36,5 +36,15 @@
 ### весовые схемы, оценка меняющихся вероятностей
 Решить задачу оценки вероятности p(t), сравнить метод весового оценивания с LSTM
 
+### Иерерхические вложения
+тут надо разбираться... :)
+* https://arxiv.org/pdf/1511.06361.pdf
+* https://homepages.inf.ed.ac.uk/rsarkar/papers/HyperbolicDelaunayFull.pdf
+* https://arxiv.org/pdf/1705.08039.pdf
+* http://hyperbolicdeeplearning.com/hyperbolic-neural-networks/
+* https://arxiv.org/pdf/1805.09112.pdf
+* https://arxiv.org/pdf/1804.01882.pdf
+
+
 # Интересные идеи
 * Анализ ошибок известных алогритмов, здесь NER: https://arxiv.org/ftp/arxiv/papers/1910/1910.02403.pdf
