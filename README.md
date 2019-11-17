@@ -14,6 +14,10 @@
 ### эффективные методы поиска ближайших соседей
 * материалы из лекции
 
+### случайные леса
+* kernel + RF https://arxiv.org/pdf/1502.03836.pdf (ещё много чего есть)
+* сравнение с Extra-Trees https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees
+
 ### оптимизация гиперпараметров
 сделать обзор существующих методов / предложить быстрые (не обязательно для настройки ML-алгоритмов)
 * Байесовский подход: [отсюда](https://github.com/WillKoehrsen/hyperparameter-optimization/blob/master/Introduction%20to%20Bayesian%20Optimization%20with%20Hyperopt.ipynb) ходить по ссылкам
