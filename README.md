@@ -15,7 +15,8 @@
 * материалы из лекции
 
 ### случайные леса
-* kernel + RF https://arxiv.org/pdf/1502.03836.pdf (ещё много чего есть). Если поискать, то 1) https://arxiv.org/pdf/1402.4293.pdf
+* kernel + RF https://arxiv.org/pdf/1502.03836.pdf (ещё много чего есть). Если поискать, то
+* * https://arxiv.org/pdf/1402.4293.pdf (тут ядра как в АПкРО)
 * сравнение с Extra-Trees https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees
 
 ### оптимизация гиперпараметров
