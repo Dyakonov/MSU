@@ -55,6 +55,7 @@
 * https://arxiv.org/pdf/1805.09112.pdf
 * https://arxiv.org/pdf/1804.01882.pdf
 
+### <<Regularization by noise>>
 
 # Интересные идеи
 * Анализ ошибок известных алогритмов, здесь NER: https://arxiv.org/ftp/arxiv/papers/1910/1910.02403.pdf
