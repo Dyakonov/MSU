@@ -57,6 +57,10 @@
 
 ### "Regularization by noise"
 
+### SNA
+много тем
+* для начала всё повторить и перерисовать...
+
 # Интересные идеи
 * Анализ ошибок известных алогритмов, здесь NER: https://arxiv.org/ftp/arxiv/papers/1910/1910.02403.pdf
 * Генерация с помощью деревьев новых признаков - RuleFite: http://statweb.stanford.edu/~jhf/ftp/RuleFit.pdf
