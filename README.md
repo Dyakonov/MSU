@@ -60,6 +60,7 @@
 ### SNA
 много тем
 * для начала всё повторить и перерисовать...
+* подборка ресурсов https://github.com/briatte/awesome-network-analysis
 
 # Интересные идеи
 * Анализ ошибок известных алогритмов, здесь NER: https://arxiv.org/ftp/arxiv/papers/1910/1910.02403.pdf
