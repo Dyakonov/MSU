@@ -20,6 +20,9 @@
 * сравнение с Extra-Trees https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees
 * просто взять все совр. реализации, хорошие реальные/модельные задачи + эксперименты/графики!
 
+### важности признаков
+* что быстее сходится (в RF, например) качество или важность
+
 ### оптимизация гиперпараметров
 сделать обзор существующих методов / предложить быстрые (не обязательно для настройки ML-алгоритмов)
 * Байесовский подход: [отсюда](https://github.com/WillKoehrsen/hyperparameter-optimization/blob/master/Introduction%20to%20Bayesian%20Optimization%20with%20Hyperopt.ipynb) ходить по ссылкам
