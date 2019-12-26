@@ -74,6 +74,10 @@
 * подборка ресурсов https://github.com/briatte/awesome-network-analysis
 * тут есть неплохие ссылки https://habr.com/ru/company/dca/blog/265077/
 
+### нестандартная оптимизация
+для начала просто разобраться - сделать обзо по нескольким статьям
+* обзор по т.н. Quality-Diversity https://quality-diversity.github.io  https://gitlab.com/leo.cazenille/qdpy
+
 # Интересные идеи
 * Анализ ошибок известных алогритмов, здесь NER: https://arxiv.org/ftp/arxiv/papers/1910/1910.02403.pdf
 * Генерация с помощью деревьев новых признаков - RuleFite: http://statweb.stanford.edu/~jhf/ftp/RuleFit.pdf
