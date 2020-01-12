@@ -78,6 +78,11 @@
 для начала просто разобраться - сделать обзо по нескольким статьям
 * обзор по т.н. Quality-Diversity https://quality-diversity.github.io  https://gitlab.com/leo.cazenille/qdpy
 
+### Дистилляция
+классная идея в статье, почему-то никто не развил. Как минимум, сделать более интерпретируемые картинки (+ регуляризация как в distill.pub). Можно попробовать без диф. оптимизации сделать что-то подобное.
+* Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros «Dataset Distillation» // https://arxiv.org/abs/1811.10959
+
+
 # Интересные идеи
 * Анализ ошибок известных алогритмов, здесь NER: https://arxiv.org/ftp/arxiv/papers/1910/1910.02403.pdf
 * Генерация с помощью деревьев новых признаков - RuleFite: http://statweb.stanford.edu/~jhf/ftp/RuleFit.pdf
