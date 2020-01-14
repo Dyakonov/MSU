@@ -79,8 +79,9 @@
 * обзор по т.н. Quality-Diversity https://quality-diversity.github.io  https://gitlab.com/leo.cazenille/qdpy
 
 ### Дистилляция
-классная идея в статье, почему-то никто не развил. Как минимум, сделать более интерпретируемые картинки (+ регуляризация как в distill.pub). Можно попробовать без диф. оптимизации сделать что-то подобное.
+классная идея в статье, почему-то никто не развил. Как минимум, сделать более интерпретируемые картинки (+ регуляризация как в distill.pub). Можно попробовать без диф. оптимизации сделать что-то подобное. По второй работе: можно ли базис совсем маленьким сделать???
 * Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros «Dataset Distillation» // https://arxiv.org/abs/1811.10959
+* вторая работа Ilia Sucholutsky, Matthias Schonlau Soft-Label Dataset Distillation and Text Dataset Distillation // https://arxiv.org/pdf/1910.02551v2.pdf
 
 
 # Интересные идеи
