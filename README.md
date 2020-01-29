@@ -30,11 +30,6 @@
 * много современных исследований: https://sigopt.com/research
 * хорошая обзорная работа https://app.sigopt.com/static/pdf/SigOpt_Bayesian_Optimization_Primer.pdf
 
-### генерация графов
-
-предложить новые подходы, сделать эксперименты
-* Есть хороший обзор:  https://arxiv.org/pdf/1910.00760v1.pdf
-
 ### аугментация
 в принципе, выигрышная тема
 * для звука https://arxiv.org/pdf/1904.08779.pdf
@@ -75,6 +70,11 @@
 * подборка ресурсов https://github.com/briatte/awesome-network-analysis
 * тут есть неплохие ссылки https://habr.com/ru/company/dca/blog/265077/
 * библиотека + ссылки - современные методы SNA https://github.com/benedekrozemberczki/karateclub
+
+### графы
+предложить новые подходы генерации графов, сделать эксперименты
+* Есть хороший обзор:  https://arxiv.org/pdf/1910.00760v1.pdf
+* **DL** графовые сети (обзор) https://arxiv.org/pdf/1901.00596.pdf
 
 ### нестандартная оптимизация
 для начала просто разобраться - сделать обзо по нескольким статьям
