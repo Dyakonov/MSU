@@ -89,3 +89,12 @@
 # Интересные идеи
 * Анализ ошибок известных алогритмов, здесь NER: https://arxiv.org/ftp/arxiv/papers/1910/1910.02403.pdf
 * Генерация с помощью деревьев новых признаков - RuleFite: http://statweb.stanford.edu/~jhf/ftp/RuleFit.pdf
+
+### Неевклидовы сети (просто почитать)
+* Group Equivariant Convolutional Networks https://arxiv.org/abs/1602.07576
+* 3D G-CNNs for Pulmonary Nodule Detection https://arxiv.org/abs/1804.04656
+* Geodesic convolutional neural networks on Riemannian manifolds https://arxiv.org/abs/1501.06297
+* Geometric deep learning: going beyond Euclidean data https://arxiv.org/abs/1611.08097
+* Gauge Equivariant Convolutional Networks and the Icosahedral CNN https://arxiv.org/abs/1902.04615
+* Fake News Detection on Social Media usingGeometric Deep Learning https://arxiv.org/abs/1902.06673
+* книга Spectral Geometry of Shapes https://books.google.ru/books?hl=ru&lr=&id=j-O4DwAAQBAJ&oi=fnd
