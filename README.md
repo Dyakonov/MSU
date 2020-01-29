@@ -74,6 +74,7 @@
 * для начала всё повторить и перерисовать...
 * подборка ресурсов https://github.com/briatte/awesome-network-analysis
 * тут есть неплохие ссылки https://habr.com/ru/company/dca/blog/265077/
+* библиотека + ссылки - современные методы SNA https://github.com/benedekrozemberczki/karateclub
 
 ### нестандартная оптимизация
 для начала просто разобраться - сделать обзо по нескольким статьям
