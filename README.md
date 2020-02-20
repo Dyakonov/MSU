@@ -23,9 +23,20 @@
 
 ### важности признаков
 * что быстее сходится (в RF, например) качество или важность
-* Strobl C., Boulesteix A.-L., Zeileis A., Hothorn T. Bias in random forest variable importance measures (2007). BMC Bioinformatics, 8(1), 25.
+* (done) Strobl C., Boulesteix A.-L., Zeileis A., Hothorn T. Bias in random forest variable importance measures (2007). BMC Bioinformatics, 8(1), 25.
 
 *Здесь отмечается смещение важностей в сторону признаков с большим числом категорий или масштаба. Для некоторых моделей  -зависимость от способа сэмплинга (с возвратом или без).*
+
+* van der Laan MJ (2006) Statistical inference for variable importance. Int J Biostat. https://doi.org/10.2202/
+1557-4679.1008
+
+*~ поправка идёй Бреймана*
+
+* Gregorutti B, Michel B, Saint-Pierre P (2015) Grouped variable importance with random forests and application to multiple functional data analysis. Comput Stat Data Anal 90:15–35
+* Gregorutti B, Michel B, Saint-Pierre P (2017) Correlation and variable importance in random forests. Stat
+Comput 27(3):659–678
+
+*~ теория Бреймана для регрессий*
 
 ### оптимизация гиперпараметров
 сделать обзор существующих методов / предложить быстрые (не обязательно для настройки ML-алгоритмов)
