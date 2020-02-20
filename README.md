@@ -30,13 +30,13 @@
 * van der Laan MJ (2006) Statistical inference for variable importance. Int J Biostat. https://doi.org/10.2202/
 1557-4679.1008
 
-*~ поправка идёй Бреймана*
+*(вроде) поправка идёй Бреймана*
 
 * Gregorutti B, Michel B, Saint-Pierre P (2015) Grouped variable importance with random forests and application to multiple functional data analysis. Comput Stat Data Anal 90:15–35
 * Gregorutti B, Michel B, Saint-Pierre P (2017) Correlation and variable importance in random forests. Stat
 Comput 27(3):659–678
 
-*~ теория Бреймана для регрессий*
+*(вроде) теория Бреймана для регрессий*
 
 ### оптимизация гиперпараметров
 сделать обзор существующих методов / предложить быстрые (не обязательно для настройки ML-алгоритмов)
