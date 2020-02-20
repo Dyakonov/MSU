@@ -21,6 +21,10 @@
 * сравнение с Extra-Trees https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees
 * просто взять все совр. реализации, хорошие реальные/модельные задачи + эксперименты/графики!
 
+* Sage, A. J., Genschel, U., & Nettleton, D. (2020). Tree aggregation for random forest class probability estimation. Statistical Analysis and Data Mining: The ASA Data Science Journal. doi:10.1002/sam.11446 
+
+*Исследуются разные способы агрегации вероятнсотей - всё на R - можно переписать и сделать лучше*
+
 ### важности признаков
 * что быстее сходится (в RF, например) качество или важность
 * (done) Strobl C., Boulesteix A.-L., Zeileis A., Hothorn T. Bias in random forest variable importance measures (2007). BMC Bioinformatics, 8(1), 25.
@@ -30,13 +34,33 @@
 * van der Laan MJ (2006) Statistical inference for variable importance. Int J Biostat. https://doi.org/10.2202/
 1557-4679.1008
 
-*(вроде) поправка идёй Бреймана*
+*поправка идёй Бреймана - на самом деле, это теоретическая работа по мат. статистике*
 
 * Gregorutti B, Michel B, Saint-Pierre P (2015) Grouped variable importance with random forests and application to multiple functional data analysis. Comput Stat Data Anal 90:15–35
 * Gregorutti B, Michel B, Saint-Pierre P (2017) Correlation and variable importance in random forests. Stat
 Comput 27(3):659–678
 
 *(вроде) теория Бреймана для регрессий*
+
+* Fisher A, Rudin C, Dominici F (2018) All models are wrong but many are useful: Variable importance for black-box, proprietary, or misspecified prediction models, using model class reliance.
+arXiv:1801.01489v3
+
+*(вроде) какое-то новое определение важности - теоретическая статья, много непонятного*
+
+* Datta A, Sen S, Zick Y (2016) Algorithmic transparency via quantitative input influence: theory and experiments with learning systems. In: 2016 IEEE symposium on security and privacy (SP). IEEE, pp 598–617
+* Kononenko I et al (2010) An efficient explanation of individual classifications using game theory. J Mach Learn Res 11(Jan):1–18
+* Staniak M, Biecek P (2018) Explanations of model predictions with live and breakDown packages. arXiv:1804.01955
+
+*(вроде) SHARP*
+
+* G. Louppe,  L. Wehenkel,  A. Sutera,  and P. Geurts.  Understanding variable impor-tances in forests of randomized trees. InAdvances in Neural Information ProcessingSystems, pages 431–439, 2013.
+* A.  Sutera,  G.  Louppe,  V.  A.  Huynh-Thu,  L.  Wehenkel,  and  P.  Geurts.   Context-dependent feature analysis with random forests.arXiv  preprint  arXiv:1605.03848,2016.
+
+*(вроде) теоретическое исследование про категориальные признаки*
+
+* Robin Genuer, Jean-Michel Poggi, Christine Tuleau-Malot. Variable selection using Random Forests.Pattern Recognition Letters, Elsevier, 2010, 31 (14), pp.2225-2236.
+
+*Тут зависимость от параметров RF*
 
 ### оптимизация гиперпараметров
 сделать обзор существующих методов / предложить быстрые (не обязательно для настройки ML-алгоритмов)
