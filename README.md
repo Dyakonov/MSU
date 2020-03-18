@@ -136,3 +136,13 @@ arXiv:1801.01489v3
 * Gauge Equivariant Convolutional Networks and the Icosahedral CNN https://arxiv.org/abs/1902.04615
 * Fake News Detection on Social Media usingGeometric Deep Learning https://arxiv.org/abs/1902.06673
 * книга Spectral Geometry of Shapes https://books.google.ru/books?hl=ru&lr=&id=j-O4DwAAQBAJ&oi=fnd
+
+### Онлайн-обучение
+* Bandit Algorithms Book https://tor-lattimore.com/downloads/book/book.pdf
+* блог к BAB https://banditalgs.com/
+* Regret Analysis of Stochastic andNonstochastic Multi-armedBandit Problems http://sbubeck.com/SurveyBCB12.pdf
+* Some Notes on Multi-armed Bandits (2020) https://courses.cs.washington.edu/courses/cse599i/20wi/resources/bandit_notes.pdf
+* курс https://courses.cs.washington.edu/courses/cse599i/18wi/
+* ECE 543:  Statistical Learning Theory https://courses.engr.illinois.edu/ece543/sp2019/SLT.pdf
+
+
