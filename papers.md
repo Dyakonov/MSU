@@ -1,0 +1,1 @@
+- [ ] Chengyue Gong **MaxUp: A Simple Way to Improve Generalization of Neural Network Training** https://arxiv.org/pdf/2002.09024.pdf
