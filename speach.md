@@ -1,6 +1,5 @@
-# MSU
-описание тем исследовательских работ для студентов
+# Работа со звуком / речью - статьи todo
+ссылки на ресурсы для проработки
 
-### кодирование категориальных признаков
-исследование различных спомобов кодирования категорий (отнестись к этому, как к простейшей реализации стекинга)
-* http://contrib.scikit-learn.org/categorical-encoding/
+### синтез речи
+- [ ] Guangzhi Sun FULLY-HIERARCHICAL FINE-GRAINED PROSODY MODELING FOR INTERPRETABLE SPEECH SYNTHESIS https://arxiv.org/pdf/2002.03785.pdf
