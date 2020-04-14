@@ -27,6 +27,12 @@
 
 Старый обзор
 
+### Metric Learning - агрегаторы
+
+- [ ] https://github.com/kdhht2334/Survey_of_Deep_Metric_Learning
+
+**Тут есть всё!**
+
 
 
 
