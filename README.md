@@ -128,6 +128,11 @@ arXiv:1801.01489v3
 * вторая работа Ilia Sucholutsky, Matthias Schonlau Soft-Label Dataset Distillation and Text Dataset Distillation // https://arxiv.org/pdf/1910.02551v2.pdf
 
 
+# Semi-, Self-and Unsupervised
+* Schmarje L. et al. A survey on Semi-, Self-and Unsupervised Techniques in Image Classification //arXiv preprint arXiv:2002.08721. – 2020. https://arxiv.org/pdf/2002.08721.pdf
+
+Отличнейший обзор!
+
 # Интересные идеи
 * Анализ ошибок известных алогритмов, здесь NER: https://arxiv.org/ftp/arxiv/papers/1910/1910.02403.pdf
 * Генерация с помощью деревьев новых признаков - RuleFite: http://statweb.stanford.edu/~jhf/ftp/RuleFit.pdf
