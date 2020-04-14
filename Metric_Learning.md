@@ -17,6 +17,18 @@
 
 Супер! То, что нужно!
 
+- [ ] Suárez J. L., García S., Herrera F. A tutorial on distance metric learning: Mathematical foundations, algorithms and software //arXiv preprint arXiv:1812.05944. – 2018. https://arxiv.org/abs/1812.05944
+
+- [ ] Kulis B. et al. Metric learning: A survey // Foundations and Trends® in Machine Learning. – 2013. – Т. 5. – №. 4. – С. 287-364. http://people.bu.edu/bkulis/pubs/ftml_metric_learning.pdf
+
+Старый обзор
+
+- [ ] Bellet A., Habrard A., Sebban M. A survey on metric learning for feature vectors and structured data //arXiv preprint arXiv:1306.6709. – 2013. https://arxiv.org/abs/1306.6709
+
+Старый обзор
+
+
+
 
 
 
