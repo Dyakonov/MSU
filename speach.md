@@ -7,3 +7,10 @@
 
 ### предобработка
 - [ ] Improving Audio Quality in Duo with WaveNetEQ https://ai.googleblog.com/2020/04/improving-audio-quality-in-duo-with.html
+
+### распознавание
+- [ ] Tae Jin Park, Kyu J. Han, Jing Huang, Xiaodong He, Bowen Zhou, Panayiotis Georgiou, Shrikanth Narayanan **Speaker Diarization with Lexical Information** https://arxiv.org/abs/2004.06756
+
+
+
+
