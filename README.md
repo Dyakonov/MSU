@@ -29,6 +29,8 @@
 
 *Исследуются разные способы агрегации вероятнсотей - всё на R - можно переписать и сделать лучше*
 
+* Обзор всех новых техник! Читать и разбираться!!! https://github.com/benedekrozemberczki/awesome-decision-tree-papers
+
 ### важности признаков
 * что быстее сходится (в RF, например) качество или важность
 * (done) Strobl C., Boulesteix A.-L., Zeileis A., Hothorn T. Bias in random forest variable importance measures (2007). BMC Bioinformatics, 8(1), 25.
