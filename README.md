@@ -121,6 +121,7 @@ arXiv:1801.01489v3
 * Есть хороший обзор:  https://arxiv.org/pdf/1910.00760v1.pdf
 * **DL** графовые сети (обзор) https://arxiv.org/pdf/1901.00596.pdf
 * обзор много-чего по графам (современные статьи) https://github.com/benedekrozemberczki/awesome-graph-classification
+* аномалии в графах https://github.com/bhatiasiddharth/MIDAS
 
 ### нестандартная оптимизация
 для начала просто разобраться - сделать обзо по нескольким статьям
