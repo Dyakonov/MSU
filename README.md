@@ -114,6 +114,7 @@ arXiv:1801.01489v3
 * подборка ресурсов https://github.com/briatte/awesome-network-analysis
 * тут есть неплохие ссылки https://habr.com/ru/company/dca/blog/265077/
 * библиотека + ссылки - современные методы SNA https://github.com/benedekrozemberczki/karateclub
+* обнаружение сообществ https://github.com/benedekrozemberczki/awesome-community-detection
 
 ### графы
 предложить новые подходы генерации графов, сделать эксперименты
