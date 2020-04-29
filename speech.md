@@ -17,7 +17,7 @@
 
 Датасет подкастов, транскрибация с помощью Гугла (в том числе на уровне слова),  47,000 часов.
 
-- [ ] Bo Li, et al **Towards Fast and Accurate Streaming End-to-End ASR**
+- [ ] Bo Li, et al **Towards Fast and Accurate Streaming End-to-End ASR** https://arxiv.org/abs/2004.11544
 
 Вроде практическая доработка LAS, но не вникал
 
