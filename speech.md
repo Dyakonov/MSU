@@ -17,6 +17,11 @@
 
 Датасет подкастов, транскрибация с помощью Гугла (в том числе на уровне слова),  47,000 часов.
 
+- [ ] Bo Li, et al **Towards Fast and Accurate Streaming End-to-End ASR**
+
+Вроде практическая доработка LAS, но не вникал
+
+
 ### предобработка
 - [ ] Improving Audio Quality in Duo with WaveNetEQ https://ai.googleblog.com/2020/04/improving-audio-quality-in-duo-with.html
 
