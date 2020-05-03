@@ -23,15 +23,15 @@
 
 - [ ] Takato Fujimoto **Semi-Supervised Learning Based on Hierarchical Generative Models for End-to-End Speech Synthesis**
 
-вызов - сделать TTS для японского языка (non-alphabetic languages)
-обычно для таких моделей нужны grapheme-to-phoneme conversion model
-variational auto-encoder (VAE) -> semi-supervised learning.
-TTS + латентные переменные позволяют контролировать атрибуты речи:
-* GMVAE-Tacotron [13]
-* Capacitron [14]
-* controllable TTS system based on semi-supervised generative models [15]
-нет кода
-https://ieeexplore.ieee.org/document/9054466
+* вызов - сделать TTS для японского языка (non-alphabetic languages)
+* обычно для таких моделей нужны grapheme-to-phoneme conversion model
+* variational auto-encoder (VAE) -> semi-supervised learning.
+* TTS + латентные переменные позволяют контролировать атрибуты речи:
+  * GMVAE-Tacotron [13]
+  * Capacitron [14]
+  * controllable TTS system based on semi-supervised generative models [15]
+* нет кода
+* https://ieeexplore.ieee.org/document/9054466
 
 - [ ] Tomoki Hayashi **Espnet-TTS: Unified, Reproducible, and Integratable Open Source End-to-End Text-to-Speech Toolkit**
 e2e-TTS toolkit "ESPnet-TTS"
