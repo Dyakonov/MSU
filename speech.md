@@ -71,14 +71,64 @@
 * https://nii-yamagishilab.github.io/samples-multi-speaker-tacotron/
 * https://github.com/nii-yamagishilab/multi-speaker-tacotron
 
-
-
 - [ ] Rafael Valle **Mellotron: Multispeaker Expressive Voice Synthesis by Conditioning on Rhythm, Pitch and Global Style Tokens**
 * https://nv-adlr.github.io/Mellotron 
 
 
+- [ ] Vadim Popov ; Mikhail Kudinov ; Tasnima Sadekova  **Gaussian Lpcnet for Multisample Speech Synthesis**
+* быстрый вокодер - улучшение LPCNet
+* нет кода и примеров
+* https://ieeexplore.ieee.org/document/9053337/authors#authors
+
+
+- [ ] Rui Liu et al **Teacher-Student Training for Robust Tacotron-based TTS**
+* обучение ученика
+* есть примеры
+* https://ieeexplore.ieee.org/document/9054681?denied=
+* https://ttslr.github.io/ICASSP2020/
+
+- [ ] Kaizhi Qian
+**F0-Consistent Many-To-Many Non-Parallel Voice Conversion Via Conditional Autoencoder**
+надо посмотреть
+но нет кода и примеров
+
+- [ ] Ning-Qian Wu  **WaveFFJORD: FFJORD-Based Vocoder for Statistical Parametric Speech Synthesis**
+* новый вокодер
+* тоже ПОКА нет кода и примеров
+* https://ieeexplore.ieee.org/document/9053202?denied=
+
+
+- [ ] Krishna Subramani **Vapar Synth - A Variational Parametric Model for Audio Synthesis**
+* ?????
+* ПОКА нет кода и примеров
+* https://ieeexplore.ieee.org/document/9054181/footnotes#footnotes
+
+
+- [ ] Vatsal Aggarwal **Using Vaes and Normalizing Flows for One-Shot Text-To-Speech Synthesis of Expressive Speech**
+* нет кода и примеров
+* https://ieeexplore.ieee.org/document/9053678
+
+
+- [ ] Stylianos I. Mimilakis, Nicholas J. Bryan, Paris Smaragdis **One-shot Parametirc Audio Production Style Transfer with Application to Frequency Equalization**
+* "frequency equalization"
+* - но я практически не слышу разницу
+* https://js-mim.github.io/sp-demo/
+
+
 ### предобработка
 - [ ] Improving Audio Quality in Duo with WaveNetEQ https://ai.googleblog.com/2020/04/improving-audio-quality-in-duo-with.html
+
+
+- [ ] Simon Leglaive et al **A Recurrent Variational Autoencoder for Speech Enhancement**
+* Может пригодиться! Есть код.
+* Улучшение звука, устранение шумов.
+* К сожалению, в демке не всё скачивается.
+* https://sleglaive.github.io/demo-icassp2020.html
+
+ - [ ] Daiki Takeuchi et al **Real-Time Speech Enhancement Using Equilibriated RNN**
+* Ещё одно улучшение звука с исходниками
+* Нет примеров
+* https://github.com/dtake1336/ERNN-for-speech-enhancement
 
 ### распознавание
 - [ ] Tae Jin Park, Kyu J. Han, Jing Huang, Xiaodong He, Bowen Zhou, Panayiotis Georgiou, Shrikanth Narayanan **Speaker Diarization with Lexical Information** https://arxiv.org/abs/2004.06756
