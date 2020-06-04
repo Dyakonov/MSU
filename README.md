@@ -137,6 +137,8 @@ arXiv:1801.01489v3
 * Schmarje L. et al. A survey on Semi-, Self-and Unsupervised Techniques in Image Classification //arXiv preprint arXiv:2002.08721. – 2020. https://arxiv.org/pdf/2002.08721.pdf
 
 Отличнейший обзор!
+* [заметка в блоге](https://dyakonov.org/2020/06/03/%d1%81%d0%b0%d0%bc%d0%be%d0%be%d0%b1%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-self-supervision/)
+можно сделать для неглубокого обучения (получится что-то типа стекинга)
 
 # Интересные идеи
 * Анализ ошибок известных алогритмов, здесь NER: https://arxiv.org/ftp/arxiv/papers/1910/1910.02403.pdf
