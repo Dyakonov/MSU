@@ -23,7 +23,7 @@
 * Microsoft’s NNI (https://github.com/microsoft/nni)
 * AutoKeras
 
-# pytorch++]
+# pytorch++
 
 * Skorch(https://github.com/skorch-dev/skorch)
 * Ignite(https://github.com/pytorch/ignite)
@@ -37,6 +37,10 @@
 * LIME
 * Model-Agnostic Linear Competitors (MALC)
 * Captum(https://captum.ai)
+
+# Ансабли
+* есть в scikit-learn
+* Combo http://www.andrew.cmu.edu/user/yuezhao2/papers/20-aaai-combo.pdf
 
 # Данные
 
