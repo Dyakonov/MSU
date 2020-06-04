@@ -1,6 +1,9 @@
 # оптимизация
 * https://scikit-optimize.github.io/index.html
 
+# scikit++
+* https://github.com/scikit-learn-contrib
+
 # логические правила
 * https://christophm.github.io/interpretable-ml-book/rulefit.html
 * https://github.com/christophM/rulefit
