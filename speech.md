@@ -114,6 +114,9 @@
 * - но я практически не слышу разницу
 * https://js-mim.github.io/sp-demo/
 
+### эмоции в речи
+
+- [ ] https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts
 
 ### предобработка
 - [ ] Improving Audio Quality in Duo with WaveNetEQ https://ai.googleblog.com/2020/04/improving-audio-quality-in-duo-with.html
