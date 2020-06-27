@@ -16,6 +16,11 @@
 
 * RAPIDS (https://rapids.ai)
 
+# NLP
+* https://github.com/jekbradbury/revtok
+* https://github.com/vzhong/embeddings
+* https://github.com/huggingface/transformers
+
 # Auto-ML
 * Auto-sklearn
 * TPOT
