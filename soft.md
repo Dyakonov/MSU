@@ -47,6 +47,10 @@
 * есть в scikit-learn
 * Combo http://www.andrew.cmu.edu/user/yuezhao2/papers/20-aaai-combo.pdf
 
+# Аудио
+* извлечение признаков https://github.com/astorfi/speechpy
+* извлечение признаков https://librosa.org/librosa/
+
 # Данные
 
 https://www.datasetlist.com/
