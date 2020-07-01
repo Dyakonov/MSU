@@ -20,6 +20,8 @@
 * https://github.com/jekbradbury/revtok
 * https://github.com/vzhong/embeddings
 * https://github.com/huggingface/transformers
+* Национальный корпус русского языка http://ruscorpora.ru/new/
+* Утилиты для работы с русским текстом https://nlpub.mipt.ru/Утилиты
 
 # Auto-ML
 * Auto-sklearn
