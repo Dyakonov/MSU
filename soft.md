@@ -52,6 +52,7 @@
 # Аудио
 * извлечение признаков https://github.com/astorfi/speechpy
 * извлечение признаков https://librosa.org/librosa/
+* выравнивание речи и аннотации https://www.readbeyond.it/aeneas/docs/
 
 # Данные
 
