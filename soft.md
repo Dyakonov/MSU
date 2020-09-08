@@ -1,3 +1,7 @@
+# обзоры ПО
+* https://github.com/EthicalML/awesome-production-machine-learning
+* https://vfx.ai/2017/11/machine-learning-labs/
+
 # оптимизация
 * https://scikit-optimize.github.io/index.html
 
@@ -53,6 +57,10 @@
 * извлечение признаков https://github.com/astorfi/speechpy
 * извлечение признаков https://librosa.org/librosa/
 * выравнивание речи и аннотации https://www.readbeyond.it/aeneas/docs/
+
+# Эксперименты
+* https://www.comet.ml
+
 
 # Данные
 
