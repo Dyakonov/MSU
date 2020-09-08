@@ -10,6 +10,10 @@
 - [ ] https://arxiv.org/pdf/2005.09629.pdf
 
 
+### улучшение звука
+- [ ] Deep speech inpainting https://mkegler.github.io/SpeechInpainting/
+* можно повторить / сделать для русской речи
+* сделать по-другому - с другой ошибкой
 
 
 ### синтез речи
