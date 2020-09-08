@@ -57,6 +57,9 @@
 * извлечение признаков https://github.com/astorfi/speechpy
 * извлечение признаков https://librosa.org/librosa/
 * выравнивание речи и аннотации https://www.readbeyond.it/aeneas/docs/
+* для сегментации https://github.com/lowerquality/gentle
+* для сегментации https://github.com/readbeyond/aeneas
+* для сегментации dsalign ?
 
 # Эксперименты
 * https://www.comet.ml
