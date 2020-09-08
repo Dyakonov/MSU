@@ -15,6 +15,9 @@
 * можно повторить / сделать для русской речи
 * сделать по-другому - с другой ошибкой
 
+- [ ] те же авторы - признаки из аудио https://arxiv.org/pdf/1910.09909.pdf
+* тоже повторить / по-другому / протестировать на конкретных задачах
+
 
 ### синтез речи
 - [ ] Guangzhi Sun **FULLY-HIERARCHICAL FINE-GRAINED PROSODY MODELING FOR INTERPRETABLE SPEECH SYNTHESIS** https://arxiv.org/pdf/2002.03785.pdf
