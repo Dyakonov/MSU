@@ -64,6 +64,11 @@
 # Эксперименты
 * https://www.comet.ml
 
+# Рисование НС и диаграмм
+* https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
+ * figma
+ * https://app.diagrams.net/
+
 
 # Данные
 
