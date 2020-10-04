@@ -163,4 +163,8 @@ arXiv:1801.01489v3
 * A Modern Introduction to Online Learning https://arxiv.org/pdf/1912.13213.pdf
 * ECE 543:  Statistical Learning Theory https://courses.engr.illinois.edu/ece543/sp2019/SLT.pdf
 
+### Оригинальное
+* Поиск прорывных / пустых научных областей
 
+Есть такое решение: https://foundation.mozilla.org/en/blog/open-source-tool-accelerate-scientific-knowledge-discovery/
+Есть более обширная база: https://dblp.org
