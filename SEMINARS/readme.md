@@ -5,3 +5,4 @@
 | 06.10.2020 | Шамшиев Мамат| [GPT-3: Language Models are Few-Shot Learners](20201006_Shamshiev_GPT3.pdf)|
 | 15.10.2020 | Медведев Алексей| [Inductive Representation Learning on Temporal Graphs](20201015_MedvedevA_IndReprLearn.pdf)|
 | 15.10.2020 | Медведев Дмитрий| [Big Transfer (BiT): General Visual Representation Learning](20201015_MedvedevD_BigTransfer.pdf)|
+| 20.10.2020 | Иванов Сергей| [Generalized Hindsight for Reinforcement Learning](20201020_IvanovS_Hindsight.pdf)|
