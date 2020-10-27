@@ -7,4 +7,4 @@
 | 15.10.2020 | Медведев Дмитрий| [Big Transfer (BiT): General Visual Representation Learning](20201015_MedvedevD_BigTransfer.pdf)|
 | 20.10.2020 | Иванов Сергей| [Generalized Hindsight for Reinforcement Learning](20201020_IvanovS_Hindsight.pdf)|
 | 20.10.2020 | Думбай Алексей| [Что в реальности даст новая модель?](20201020_DumbayA_AB.pdf)|
-
+| 27.10.2020 | Лукьянов Павел| [Audio data augmentation](20201027_LukjanovP_AudioAugment.pdf)|
