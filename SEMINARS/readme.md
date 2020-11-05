@@ -8,3 +8,5 @@
 | 20.10.2020 | Иванов Сергей| [Generalized Hindsight for Reinforcement Learning](20201020_IvanovS_Hindsight.pdf)|
 | 20.10.2020 | Думбай Алексей| [Что в реальности даст новая модель?](20201020_DumbayA_AB.pdf)|
 | 27.10.2020 | Лукьянов Павел| [Audio data augmentation](20201027_LukjanovP_AudioAugment.pdf)|
+| 06.11.2020 | Фёдоров Илья| [Text embeddings](20201106_FedorovI_TransformerTextEmbed.pdf)|
+| 06.11.2020 | Дьяконов Александр| [Аугментации для текстов](20201106_DyakonovA_TextAugm.pdf)|
