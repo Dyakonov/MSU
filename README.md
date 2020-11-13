@@ -132,6 +132,11 @@ arXiv:1801.01489v3
 * Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros «Dataset Distillation» // https://arxiv.org/abs/1811.10959
 * вторая работа Ilia Sucholutsky, Matthias Schonlau Soft-Label Dataset Distillation and Text Dataset Distillation // https://arxiv.org/pdf/1910.02551v2.pdf
 
+### Извлечение признаков из деревьев и обучение на деревьях
+* Оригинальная интересная идея Celine Vens, Fabrizio Costa Random Forest Based Feature Induction // https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.454.7215&rep=rep1&type=pdf
+* Её современная модификация https://arxiv.org/pdf/2011.02829.pdf
+* тут просто м.б. полезный код: https://github.com/yunchuankong/forgeNet/blob/master/forgeNet.py
+
 
 # Semi-, Self-and Unsupervised
 * Schmarje L. et al. A survey on Semi-, Self-and Unsupervised Techniques in Image Classification //arXiv preprint arXiv:2002.08721. – 2020. https://arxiv.org/pdf/2002.08721.pdf
