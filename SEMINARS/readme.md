@@ -12,3 +12,4 @@
 | 27.10.2020 | Лукьянов Павел| [Audio data augmentation](20201027_LukjanovP_AudioAugment.pdf)|
 | 06.11.2020 | Фёдоров Илья| [Text embeddings](20201106_FedorovI_TransformerTextEmbed.pdf)|
 | 06.11.2020 | Дьяконов Александр| [Аугментации для текстов](20201106_DyakonovA_TextAugm.pdf)|
+| 18.11.2020 | Кузьмин Никита| [Neural Similarity Measurement Strategies in Speaker Diarization Task](20201118_KuzminN_SpeakerDiarization.pdf)|
