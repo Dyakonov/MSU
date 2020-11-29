@@ -14,4 +14,4 @@
 | 06.11.2020 | Дьяконов Александр| [Аугментации для текстов](20201106_DyakonovA_TextAugm.pdf)|
 | 18.11.2020 | Кузьмин Никита| [Neural Similarity Measurement Strategies in Speaker Diarization Task](20201118_KuzminN_SpeakerDiarization.pdf)|
 | 26.11.2020 | Марков Владислав| [Self-Driving Cars](20201126_MarkovV_SelfDriving.pdf)|
-| 26.11.2020 | Швец Павел [.Black-Box Interpretation Methods: Anchors](20201126_ShvetcP_Interpretation.pdf)|
+| 26.11.2020 | Швец Павел | [Black-Box Interpretation Methods: Anchors](20201126_ShvetcP_Interpretation.pdf)|
