@@ -145,6 +145,12 @@ arXiv:1801.01489v3
 * [заметка в блоге](https://dyakonov.org/2020/06/03/%d1%81%d0%b0%d0%bc%d0%be%d0%be%d0%b1%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-self-supervision/)
 можно сделать для неглубокого обучения (получится что-то типа стекинга)
 
+# SVM-кластеризация
+обзор и реализация известных подходов, например
+* http://hanj.cs.illinois.edu/pdf/aistat13_qgu.pdf
+* https://www.jmlr.org/papers/volume2/horn01a/horn01a.pdf
+* https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-S7-S18
+
 # Интересные идеи
 * Анализ ошибок известных алогритмов, здесь NER: https://arxiv.org/ftp/arxiv/papers/1910/1910.02403.pdf
 * Генерация с помощью деревьев новых признаков - RuleFite: http://statweb.stanford.edu/~jhf/ftp/RuleFit.pdf
