@@ -173,6 +173,7 @@ arXiv:1801.01489v3
 * Introduction to Online Optimization 2011 курс https://courses.cs.washington.edu/courses/cse599i/18wi/
 * A Modern Introduction to Online Learning https://arxiv.org/pdf/1912.13213.pdf
 * ECE 543:  Statistical Learning Theory https://courses.engr.illinois.edu/ece543/sp2019/SLT.pdf
+* Avrin Blum http://www.cs.cmu.edu/~avrim/Papers/survey.pdf
 
 ### Оригинальное
 * Поиск прорывных / пустых научных областей
