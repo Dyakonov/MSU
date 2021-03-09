@@ -15,3 +15,5 @@
 | 18.11.2020 | Кузьмин Никита| [Neural Similarity Measurement Strategies in Speaker Diarization Task](20201118_KuzminN_SpeakerDiarization.pdf)|
 | 26.11.2020 | Марков Владислав| [Self-Driving Cars](20201126_MarkovV_SelfDriving.pdf)|
 | 26.11.2020 | Швец Павел | [Black-Box Interpretation Methods: Anchors](20201126_ShvetcP_Interpretation.pdf)|
+
+| 09.03.2021 | Васильев Руслан | [Learning from others’ mistakes: Avoiding dataset biases...](20210309_VasilievR_avoiddatasetbias.pdf)|
