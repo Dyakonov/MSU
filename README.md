@@ -123,6 +123,11 @@ arXiv:1801.01489v3
 * обзор много-чего по графам (современные статьи) https://github.com/benedekrozemberczki/awesome-graph-classification
 * аномалии в графах https://github.com/bhatiasiddharth/MIDAS
 
+### экваринтные сети
+тут надо разбираться - слишком много материала
+* https://github.com/Chen-Cai-OSU/awesome-equivariant-network
+
+
 ### нестандартная оптимизация
 для начала просто разобраться - сделать обзо по нескольким статьям
 * обзор по т.н. Quality-Diversity https://quality-diversity.github.io  https://gitlab.com/leo.cazenille/qdpy
