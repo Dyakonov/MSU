@@ -126,7 +126,8 @@ arXiv:1801.01489v3
 ### экваринтные сети
 тут надо разбираться - слишком много материала
 * https://github.com/Chen-Cai-OSU/awesome-equivariant-network
-
+а тут топология:
+* https://github.com/Chen-Cai-OSU/Topology-and-Learning
 
 ### нестандартная оптимизация
 для начала просто разобраться - сделать обзо по нескольким статьям
