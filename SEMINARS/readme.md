@@ -17,3 +17,4 @@
 | 26.11.2020 | Швец Павел | [Black-Box Interpretation Methods: Anchors](20201126_ShvetcP_Interpretation.pdf)|
 | 09.03.2021 | Васильев Руслан | [Learning from others’ mistakes: Avoiding dataset biases...](20210309_VasilievR_avoiddatasetbias.pdf)|
 | 16.03.2021 | Чернышёв Александр | [Re-labeling ImageNet:from Single to Multi-Labels,from Global to Localized Labels](20210316_ChernyshovA_relabel.pdf)|
+| 30.03.2021 | Медведев Дмитрий | [LambdaNetworks: Modeling long-range Interactions without Attention](20210330_MedvedevD_LambdaNets.pdf)|
