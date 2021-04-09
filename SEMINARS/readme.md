@@ -15,6 +15,8 @@
 | 18.11.2020 | Кузьмин Никита| [Neural Similarity Measurement Strategies in Speaker Diarization Task](20201118_KuzminN_SpeakerDiarization.pdf)|
 | 26.11.2020 | Марков Владислав| [Self-Driving Cars](20201126_MarkovV_SelfDriving.pdf)|
 | 26.11.2020 | Швец Павел | [Black-Box Interpretation Methods: Anchors](20201126_ShvetcP_Interpretation.pdf)|
+| 02.03.2021 | Кузнецов Михаил | [Improved Autoregressive Modeling with Distribution Smoothing](20210302_KuznetsovM_ImprovedAutoregressive.pdf)|
+| 02.03.2021 | Махин Артём | [Fake News Detection using XLMNet](20210302_MahinA_covid-fake.pdf)
 | 09.03.2021 | Васильев Руслан | [Learning from others’ mistakes: Avoiding dataset biases...](20210309_VasilievR_avoiddatasetbias.pdf)|
 | 16.03.2021 | Чернышёв Александр | [Re-labeling ImageNet:from Single to Multi-Labels,from Global to Localized Labels](20210316_ChernyshovA_relabel.pdf)|
 | 30.03.2021 | Медведев Дмитрий | [LambdaNetworks: Modeling long-range Interactions without Attention](20210330_MedvedevD_LambdaNets.pdf)|
