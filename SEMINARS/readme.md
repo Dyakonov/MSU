@@ -20,3 +20,5 @@
 | 09.03.2021 | Васильев Руслан | [Learning from others’ mistakes: Avoiding dataset biases...](20210309_VasilievR_avoiddatasetbias.pdf)|
 | 16.03.2021 | Чернышёв Александр | [Re-labeling ImageNet:from Single to Multi-Labels,from Global to Localized Labels](20210316_ChernyshovA_relabel.pdf)|
 | 30.03.2021 | Медведев Дмитрий | [LambdaNetworks: Modeling long-range Interactions without Attention](20210330_MedvedevD_LambdaNets.pdf)|
+| 06.04.2021 | Медведев Алексей | [Radioactive data: tracing through training](20210406_MedvedevA_RadioactiveData.pdf)|
+| 06.04.2021 |  Фёдоров Илья | [Switch Transformers](20210406_FedorovI_SwitchTransformer.pdf)|
