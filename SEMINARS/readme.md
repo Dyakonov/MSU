@@ -21,4 +21,6 @@
 | 16.03.2021 | Чернышёв Александр | [Re-labeling ImageNet:from Single to Multi-Labels,from Global to Localized Labels](20210316_ChernyshovA_relabel.pdf)|
 | 30.03.2021 | Медведев Дмитрий | [LambdaNetworks: Modeling long-range Interactions without Attention](20210330_MedvedevD_LambdaNets.pdf)|
 | 06.04.2021 | Медведев Алексей | [Radioactive data: tracing through training](20210406_MedvedevA_RadioactiveData.pdf)|
-| 06.04.2021 |  Фёдоров Илья | [Switch Transformers](20210406_FedorovI_SwitchTransformer.pdf)|
+| 06.04.2021 | Фёдоров Илья | [Switch Transformers](20210406_FedorovI_SwitchTransformer.pdf)|
+| 13.04.2021 | Швец Павел | [Co-Mixup: Saliency Guided Joint Mixup withSupermodular Diversity](20210413_Shvets_Co-Mixup.pdf)|
+| 13.04.2021 | Филимонов Владислав | [Zero-Shot Text-to-Image Generation](20210413_FilimonovV_dall_e.pdf)|
