@@ -24,3 +24,6 @@
 | 06.04.2021 | Фёдоров Илья | [Switch Transformers](20210406_FedorovI_SwitchTransformer.pdf)|
 | 13.04.2021 | Швец Павел | [Co-Mixup: Saliency Guided Joint Mixup withSupermodular Diversity](20210413_Shvets_Co-Mixup.pdf)|
 | 13.04.2021 | Филимонов Владислав | [Zero-Shot Text-to-Image Generation](20210413_FilimonovV_dall_e.pdf)|
+| 13.10.2021 | Дьяконов Александр | [Разметка с помощью GPT-3 и «Active Labeling»](20211013_DyakonovA_GPTlabel.pdf)
+| 27.10.2021 | Фёдоров Илья | [Современный DL в обработке аудио: Wav2Vec2.0](20211027_FedorovI_wav2vec20.pdf)|
+| 27.10.2021 | Махин Артём | [Causal Inference in Non-linear Time-series using Deep Networks and Knockoff Counterfactuals](20211027_MakhinA_CausalInference.pdf)|
