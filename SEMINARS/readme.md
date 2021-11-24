@@ -27,3 +27,5 @@
 | 13.10.2021 | Дьяконов Александр | [Разметка с помощью GPT-3 и «Active Labeling»](20211013_DyakonovA_GPTlabel.pdf)
 | 27.10.2021 | Фёдоров Илья | [Современный DL в обработке аудио: Wav2Vec2.0](20211027_FedorovI_wav2vec20.pdf)|
 | 27.10.2021 | Махин Артём | [Causal Inference in Non-linear Time-series using Deep Networks and Knockoff Counterfactuals](20211027_MakhinA_CausalInference.pdf)|
+| 10.11.2021 | Кузнецов Михаил | [Dataset Distillation with Infinitely Wide Convolutional](20211110_KuznetsovM_DatasetDistillation.pdf)|
+| 10.11.2021 | Чернышев Александр | [Instance-Conditioned GAN](20211110_ChernyshevA_InstanceConditionedGAN.pdf)|
