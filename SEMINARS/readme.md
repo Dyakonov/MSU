@@ -29,3 +29,8 @@
 | 27.10.2021 | Махин Артём | [Causal Inference in Non-linear Time-series using Deep Networks and Knockoff Counterfactuals](20211027_MakhinA_CausalInference.pdf)|
 | 10.11.2021 | Кузнецов Михаил | [Dataset Distillation with Infinitely Wide Convolutional](20211110_KuznetsovM_DatasetDistillation.pdf)|
 | 10.11.2021 | Чернышев Александр | [Instance-Conditioned GAN](20211110_ChernyshevA_InstanceConditionedGAN.pdf)|
+| 24.11.2021 | Медведев Дмитрий | [Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems](20211124_MedvedevD_clrec.pdf)|
+| 24.11.2021 | Лукьянов Павел | [SpecMix: audio data augmentation method](20211124_LukjanovP_SpecMix.pdf)|
+
+
+
