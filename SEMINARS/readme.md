@@ -32,6 +32,7 @@
 | 24.11.2021 | Медведев Дмитрий | [Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems](20211124_MedvedevD_clrec.pdf)|
 | 24.11.2021 | Лукьянов Павел | [SpecMix: audio data augmentation method](20211124_LukjanovP_SpecMix.pdf)|
 | 08.12.2021 | Васильев Руслан | [Rotary Position Embeddings](20211208_VasilievR_RotaryEmbeddings.pdf)|
+| 12.12.2021 | Михеев Борис | Generalized Anomaly Detection|
 
 
 
