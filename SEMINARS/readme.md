@@ -33,6 +33,8 @@
 | 24.11.2021 | Лукьянов Павел | [SpecMix: audio data augmentation method](20211124_LukjanovP_SpecMix.pdf)|
 | 08.12.2021 | Васильев Руслан | [Rotary Position Embeddings](20211208_VasilievR_RotaryEmbeddings.pdf)|
 | 12.12.2021 | Михеев Борис | [Generalized Anomaly Detection](20211222_MiheevB_Anomaly.pdf)|
+| 12.12.2021 | Медведев Алексей | [MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](20211222_MedvedevA_MultiSage.pdf)|
+
 
 
 
